@@ -12,9 +12,12 @@ class Translator
   end
 
   def run
-    puts get_trans_files
-    puts existing_trans_langs
-    puts parse_translation
+    parse_translation
+    @tr_words.each { |words|
+      words.each_with_index { |word, index|
+        replace_word(words[0], word, @tr_langs[index])
+      }
+    }
     puts self.inspect
   end
 
@@ -40,6 +43,24 @@ class Translator
       end
       line_num += 1
     end
+  end
+
+  def get_base_lang
+    @tr_langs[0]
+  end
+
+  def replace_word(base, to_translation, for_lang)
+    puts base, to_translation, for_lang
+    filename = file_for_lang for_lang
+    puts filename
+  end
+
+  def file_for_lang(for_lang)
+    langs_index = existing_trans_langs.index(for_lang)
+    if langs_index
+      get_trans_files[langs_index]
+    end
+
   end
 end
 
