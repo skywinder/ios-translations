@@ -7,6 +7,8 @@ class Translator
   def initialize(dir, translations)
     @dir = dir
     @translation = translations
+    @tr_langs = []
+    @tr_words = []
   end
 
   def run
@@ -29,12 +31,14 @@ class Translator
   def parse_translation
     line_num = 0
     File.open(@translation).each do |line|
+      line = line.delete("\n")
       line_split = line.split(",")
       if line_num == 0
         @tr_langs = line_split
       else
         @tr_words.push(line_split)
       end
+      line_num += 1
     end
   end
 end
