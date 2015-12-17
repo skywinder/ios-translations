@@ -50,7 +50,6 @@ class Translator
   end
 
   def replace_word(base, to_translation, for_lang)
-    puts base, to_translation, for_lang
     filename = file_for_lang for_lang
     if filename
       text = File.read(filename)
