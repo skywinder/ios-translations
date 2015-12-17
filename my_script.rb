@@ -9,10 +9,18 @@ class Translator
 
   def run
     puts self.inspect
+    puts get_trans_files
+    puts existing_trans_langs
+
   end
 
   def get_trans_files
-    Dir["/path/to/search/**/*.rb"]
+    string = @dir + "/*.xliff"
+    Dir[string]
+    # "/path/to/search/**/*.rb"
+  end
+  def existing_trans_langs
+    get_trans_files.map{|f| File.basename(f, ".xliff")}
   end
 end
 
