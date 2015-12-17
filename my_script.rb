@@ -52,7 +52,11 @@ class Translator
   def replace_word(base, to_translation, for_lang)
     puts base, to_translation, for_lang
     filename = file_for_lang for_lang
-    puts filename
+    if filename
+      text = File.read(filename)
+      new_file = text.gsub("<target>#{base}</target>", "<target>#{to_translation}</target>")
+      File.open(filename, 'w'){|f| f.puts new_file}
+    end
   end
 
   def file_for_lang(for_lang)
