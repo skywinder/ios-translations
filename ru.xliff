@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="FxPro Tools WatchKit App/Base.lproj/Interface.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="4Xb-b1-5Fv.text">
+        <source>-0.42 %</source>
+        <note>Class = "WKInterfaceLabel"; text = "-0.42 %"; ObjectID = "4Xb-b1-5Fv";</note>
+      </trans-unit>
+      <trans-unit id="8ej-SW-hWt.title">
+        <source>Cancel</source>
+        <note>Class = "WKInterfaceMenuItem"; title = "Cancel"; ObjectID = "8ej-SW-hWt";</note>
+      </trans-unit>
+      <trans-unit id="L1p-L1-Yd4.text">
+        <source>Alert Label</source>
+        <note>Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "L1p-L1-Yd4";</note>
+      </trans-unit>
+      <trans-unit id="Rc4-mH-yH0.text">
+        <source>Daily High</source>
+        <note>Class = "WKInterfaceLabel"; text = "Daily High"; ObjectID = "Rc4-mH-yH0";</note>
+      </trans-unit>
+      <trans-unit id="ThJ-de-tdO.text">
+        <source>1.945</source>
+        <note>Class = "WKInterfaceLabel"; text = "1.945"; ObjectID = "ThJ-de-tdO";</note>
+      </trans-unit>
+      <trans-unit id="UvO-Uh-KxR.text">
+        <source>EURWTF</source>
+        <note>Class = "WKInterfaceLabel"; text = "EURWTF"; ObjectID = "UvO-Uh-KxR";</note>
+      </trans-unit>
+      <trans-unit id="VAs-gj-DVQ.text">
+        <source>1.1123</source>
+        <note>Class = "WKInterfaceLabel"; text = "1.1123"; ObjectID = "VAs-gj-DVQ";</note>
+      </trans-unit>
+      <trans-unit id="WRy-di-AeY.text">
+        <source>EURWTF</source>
+        <note>Class = "WKInterfaceLabel"; text = "EURWTF"; ObjectID = "WRy-di-AeY";</note>
+      </trans-unit>
+      <trans-unit id="YgB-cs-AMU.text">
+        <source>Daily Low</source>
+        <note>Class = "WKInterfaceLabel"; text = "Daily Low"; ObjectID = "YgB-cs-AMU";</note>
+      </trans-unit>
+      <trans-unit id="cY3-KE-5Mf.title">
+        <source>Delete</source>
+        <note>Class = "WKInterfaceMenuItem"; title = "Delete"; ObjectID = "cY3-KE-5Mf";</note>
+      </trans-unit>
+      <trans-unit id="cci-IJ-UjR.text">
+        <source>1.1968</source>
+        <note>Class = "WKInterfaceLabel"; text = "1.1968"; ObjectID = "cci-IJ-UjR";</note>
+      </trans-unit>
+      <trans-unit id="qBE-c6-Sn1.text">
+        <source>AddNew</source>
+        <note>Class = "WKInterfaceLabel"; text = "AddNew"; ObjectID = "qBE-c6-Sn1";</note>
+      </trans-unit>
+      <trans-unit id="qLM-tV-Xvm.text">
+        <source>0.432</source>
+        <note>Class = "WKInterfaceLabel"; text = "0.432"; ObjectID = "qLM-tV-Xvm";</note>
+      </trans-unit>
+      <trans-unit id="vae-oi-yTP.text">
+        <source>-0.43 %</source>
+        <note>Class = "WKInterfaceLabel"; text = "-0.43 %"; ObjectID = "vae-oi-yTP";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FxPro Tools WatchKit App/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>FxPro Tools</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.1.8</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="FxPro Tools WatchKit Extension/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>FxPro Tools WatchKit Extension</source>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.1.8</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="RequestKitTests/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.1.8</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="fxpro/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body/>
+  </file>
+  <file original="fxpro/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="0E6-bB-OBQ.placeholder">
+        <source>Trade Size</source>
+        <target/>
+        <note>Class = "UITextField"; placeholder = "Trade Size"; ObjectID = "0E6-bB-OBQ";</note>
+      </trans-unit>
+      <trans-unit id="0Gy-CZ-AOw.text">
+        <source>Open Price</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Open Price"; ObjectID = "0Gy-CZ-AOw";</note>
+      </trans-unit>
+      <trans-unit id="0PL-3S-7UA.text">
+        <source>Leverage for Margin</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Leverage for Margin"; ObjectID = "0PL-3S-7UA";</note>
+      </trans-unit>
+      <trans-unit id="0TV-Am-a5d.text">
+        <source>USD</source>
+        <target/>
+        <note>Class = "UILabel"; text = "USD"; ObjectID = "0TV-Am-a5d";</note>
+      </trans-unit>
+      <trans-unit id="0lx-Mj-Nxj.text">
+        <source>Pip Value</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Pip Value"; ObjectID = "0lx-Mj-Nxj";</note>
+      </trans-unit>
+      <trans-unit id="1Ew-CC-OpO.normalTitle">
+        <source>Feedback</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Feedback"; ObjectID = "1Ew-CC-OpO";</note>
+      </trans-unit>
+      <trans-unit id="1Yo-fk-Ef1.normalTitle">
+        <source>Settings</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Settings"; ObjectID = "1Yo-fk-Ef1";</note>
+      </trans-unit>
+      <trans-unit id="1hG-iz-lxe.title">
+        <source>Language</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "Language"; ObjectID = "1hG-iz-lxe";</note>
+      </trans-unit>
+      <trans-unit id="2PA-rE-bej.title">
+        <source>New Markets Alert</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "New Markets Alert"; ObjectID = "2PA-rE-bej";</note>
+      </trans-unit>
+      <trans-unit id="2Qb-GE-wgc.text">
+        <source>Pair</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Pair"; ObjectID = "2Qb-GE-wgc";</note>
+      </trans-unit>
+      <trans-unit id="2Xp-ZA-aST.text">
+        <source>Currency</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Currency"; ObjectID = "2Xp-ZA-aST";</note>
+      </trans-unit>
+      <trans-unit id="03P-Pn-PYj.text">
+        <source>Conversion</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Conversion"; ObjectID = "03P-Pn-PYj";</note>
+      </trans-unit>
+      <trans-unit id="3Yr-pg-cAH.normalTitle">
+        <source>Calculate</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "3Yr-pg-cAH";</note>
+      </trans-unit>
+      <trans-unit id="3oq-hL-DPz.text">
+        <source>1 EUR = 1.1194 USD</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1 EUR = 1.1194 USD"; ObjectID = "3oq-hL-DPz";</note>
+      </trans-unit>
+      <trans-unit id="3w5-CW-5Bk.text">
+        <source>Main</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Main"; ObjectID = "3w5-CW-5Bk";</note>
+      </trans-unit>
+      <trans-unit id="4fE-mR-DVV.title">
+        <source>About FxPro</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "About FxPro"; ObjectID = "4fE-mR-DVV";</note>
+      </trans-unit>
+      <trans-unit id="6l4-3P-0wR.text">
+        <source>Last Price</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Last Price"; ObjectID = "6l4-3P-0wR";</note>
+      </trans-unit>
+      <trans-unit id="6rS-xb-cHH.title">
+        <source>Menu</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "Menu"; ObjectID = "6rS-xb-cHH";</note>
+      </trans-unit>
+      <trans-unit id="6wH-IP-T5k.text">
+        <source>0.3% m/m</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.3% m/m"; ObjectID = "6wH-IP-T5k";</note>
+      </trans-unit>
+      <trans-unit id="7OO-0s-nVk.text">
+        <source>Previous:</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Previous:"; ObjectID = "7OO-0s-nVk";</note>
+      </trans-unit>
+      <trans-unit id="7tx-gF-26A.text">
+        <source>Currency Pair</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Currency Pair"; ObjectID = "7tx-gF-26A";</note>
+      </trans-unit>
+      <trans-unit id="8Y6-vg-pXu.text">
+        <source>0.2</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.2"; ObjectID = "8Y6-vg-pXu";</note>
+      </trans-unit>
+      <trans-unit id="8ve-lG-Cyf.text">
+        <source>-.--</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-.--"; ObjectID = "8ve-lG-Cyf";</note>
+      </trans-unit>
+      <trans-unit id="9hp-bT-EV5.text">
+        <source>Type of Transaction</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Type of Transaction"; ObjectID = "9hp-bT-EV5";</note>
+      </trans-unit>
+      <trans-unit id="10u-hq-Tyl.text">
+        <source>Current Price: 342.35</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Current Price: 342.35"; ObjectID = "10u-hq-Tyl";</note>
+      </trans-unit>
+      <trans-unit id="17u-Ei-Ohw.text">
+        <source>15:35</source>
+        <target/>
+        <note>Class = "UILabel"; text = "15:35"; ObjectID = "17u-Ei-Ohw";</note>
+      </trans-unit>
+      <trans-unit id="45q-ws-QYV.normalTitle">
+        <source>Calculate</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "45q-ws-QYV";</note>
+      </trans-unit>
+      <trans-unit id="58w-Yf-rpT.text">
+        <source>1:1</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1:1"; ObjectID = "58w-Yf-rpT";</note>
+      </trans-unit>
+      <trans-unit id="74x-yc-Ai2.text">
+        <source>1</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "74x-yc-Ai2";</note>
+      </trans-unit>
+      <trans-unit id="75t-W6-XkL.text">
+        <source>Refresh Rate</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Refresh Rate"; ObjectID = "75t-W6-XkL";</note>
+      </trans-unit>
+      <trans-unit id="631-fD-RPD.text">
+        <source>Take Profit, pips</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Take Profit, pips"; ObjectID = "631-fD-RPD";</note>
+      </trans-unit>
+      <trans-unit id="790-Jc-bnN.text">
+        <source>1 EUR = 1.1194 USD</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1 EUR = 1.1194 USD"; ObjectID = "790-Jc-bnN";</note>
+      </trans-unit>
+      <trans-unit id="BKL-cI-Tw9.text">
+        <source>0.00452</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.00452"; ObjectID = "BKL-cI-Tw9";</note>
+      </trans-unit>
+      <trans-unit id="Bbo-xU-bb2.text">
+        <source>-.--</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-.--"; ObjectID = "Bbo-xU-bb2";</note>
+      </trans-unit>
+      <trans-unit id="BuC-vi-MiO.text">
+        <source>0.15</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.15"; ObjectID = "BuC-vi-MiO";</note>
+      </trans-unit>
+      <trans-unit id="C0N-R9-gTO.text">
+        <source>0.3% m/m  1.6% y/y</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.3% m/m  1.6% y/y"; ObjectID = "C0N-R9-gTO";</note>
+      </trans-unit>
+      <trans-unit id="CFr-qZ-M2s.text">
+        <source>Date</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Date"; ObjectID = "CFr-qZ-M2s";</note>
+      </trans-unit>
+      <trans-unit id="Ceo-cM-kEr.text">
+        <source>EUR</source>
+        <target/>
+        <note>Class = "UILabel"; text = "EUR"; ObjectID = "Ceo-cM-kEr";</note>
+      </trans-unit>
+      <trans-unit id="Cez-ti-qvC.text">
+        <source>0.1% m/m</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.1% m/m"; ObjectID = "Cez-ti-qvC";</note>
+      </trans-unit>
+      <trans-unit id="Cni-PP-qT7.segmentTitles[0]">
+        <source>First</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; Cni-PP-qT7.segmentTitles[0] = "First"; ObjectID = "Cni-PP-qT7";</note>
+      </trans-unit>
+      <trans-unit id="Cni-PP-qT7.segmentTitles[1]">
+        <source>Second</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; Cni-PP-qT7.segmentTitles[1] = "Second"; ObjectID = "Cni-PP-qT7";</note>
+      </trans-unit>
+      <trans-unit id="DYu-YC-UfM.normalTitle">
+        <source>1:1</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "1:1"; ObjectID = "DYu-YC-UfM";</note>
+      </trans-unit>
+      <trans-unit id="Dr5-RJ-6HE.text">
+        <source>0.2</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.2"; ObjectID = "Dr5-RJ-6HE";</note>
+      </trans-unit>
+      <trans-unit id="Drr-vB-XEG.text">
+        <source>1</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "Drr-vB-XEG";</note>
+      </trans-unit>
+      <trans-unit id="E3T-bH-zKS.normalTitle">
+        <source>Calculate</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "E3T-bH-zKS";</note>
+      </trans-unit>
+      <trans-unit id="E6l-If-fVn.placeholder">
+        <source>Amount to Risk</source>
+        <target/>
+        <note>Class = "UITextField"; placeholder = "Amount to Risk"; ObjectID = "E6l-If-fVn";</note>
+      </trans-unit>
+      <trans-unit id="ERd-QT-NP4.text">
+        <source>Misc</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Misc"; ObjectID = "ERd-QT-NP4";</note>
+      </trans-unit>
+      <trans-unit id="EZd-ga-lb2.text">
+        <source>Results</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Results"; ObjectID = "EZd-ga-lb2";</note>
+      </trans-unit>
+      <trans-unit id="EfH-3e-66d.normalTitle">
+        <source>Refresh Rate</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Refresh Rate"; ObjectID = "EfH-3e-66d";</note>
+      </trans-unit>
+      <trans-unit id="Etk-7q-s27.text">
+        <source>1</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "Etk-7q-s27";</note>
+      </trans-unit>
+      <trans-unit id="F7e-Dz-36p.text">
+        <source>Stop Loss</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Stop Loss"; ObjectID = "F7e-Dz-36p";</note>
+      </trans-unit>
+      <trans-unit id="Faq-r2-npF.normalTitle">
+        <source>Rate Us</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Rate Us"; ObjectID = "Faq-r2-npF";</note>
+      </trans-unit>
+      <trans-unit id="FnJ-u3-mG9.text">
+        <source>Details</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Details"; ObjectID = "FnJ-u3-mG9";</note>
+      </trans-unit>
+      <trans-unit id="Fys-6U-Tk9.text">
+        <source>Currency</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Currency"; ObjectID = "Fys-6U-Tk9";</note>
+      </trans-unit>
+      <trans-unit id="G3l-8g-lPi.text">
+        <source>Account</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Account"; ObjectID = "G3l-8g-lPi";</note>
+      </trans-unit>
+      <trans-unit id="G8o-0p-7On.normalTitle">
+        <source>EUR</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "EUR"; ObjectID = "G8o-0p-7On";</note>
+      </trans-unit>
+      <trans-unit id="GAt-lg-etv.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "GAt-lg-etv";</note>
+      </trans-unit>
+      <trans-unit id="GS3-US-wbr.text">
+        <source>Today high</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Today high"; ObjectID = "GS3-US-wbr";</note>
+      </trans-unit>
+      <trans-unit id="Gm0-hh-6nf.text">
+        <source>-.--</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-.--"; ObjectID = "Gm0-hh-6nf";</note>
+      </trans-unit>
+      <trans-unit id="GyP-We-SYl.text">
+        <source>SL Ratio to Tip</source>
+        <target/>
+        <note>Class = "UILabel"; text = "SL Ratio to Tip"; ObjectID = "GyP-We-SYl";</note>
+      </trans-unit>
+      <trans-unit id="Hgl-Am-Gqx.text">
+        <source>To</source>
+        <target/>
+        <note>Class = "UILabel"; text = "To"; ObjectID = "Hgl-Am-Gqx";</note>
+      </trans-unit>
+      <trans-unit id="HhZ-cP-Wd9.text">
+        <source>0.09% (+0.01%)</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.09% (+0.01%)"; ObjectID = "HhZ-cP-Wd9";</note>
+      </trans-unit>
+      <trans-unit id="Hoi-Co-ckY.text">
+        <source>Account</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Account"; ObjectID = "Hoi-Co-ckY";</note>
+      </trans-unit>
+      <trans-unit id="Hrt-Ng-tyX.text">
+        <source>-.--</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-.--"; ObjectID = "Hrt-Ng-tyX";</note>
+      </trans-unit>
+      <trans-unit id="I7k-6m-nty.text">
+        <source>At FxPro we offer complete FX services for all segments of the FX market</source>
+        <target/>
+        <note>Class = "UILabel"; text = "At FxPro we offer complete FX services for all segments of the FX market"; ObjectID = "I7k-6m-nty";</note>
+      </trans-unit>
+      <trans-unit id="IRC-jG-Kz5.text">
+        <source>0.00452</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.00452"; ObjectID = "IRC-jG-Kz5";</note>
+      </trans-unit>
+      <trans-unit id="JAB-7Z-bMS.text">
+        <source>Information</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Information"; ObjectID = "JAB-7Z-bMS";</note>
+      </trans-unit>
+      <trans-unit id="JbD-V0-1ox.text">
+        <source>Forecast:</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Forecast:"; ObjectID = "JbD-V0-1ox";</note>
+      </trans-unit>
+      <trans-unit id="Jey-Ge-oF1.normalTitle">
+        <source>Legal Documentation</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Legal Documentation"; ObjectID = "Jey-Ge-oF1";</note>
+      </trans-unit>
+      <trans-unit id="KFb-Rr-EQy.text">
+        <source>EUR</source>
+        <target/>
+        <note>Class = "UILabel"; text = "EUR"; ObjectID = "KFb-Rr-EQy";</note>
+      </trans-unit>
+      <trans-unit id="KTF-7k-ow6.text">
+        <source>1.4</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1.4"; ObjectID = "KTF-7k-ow6";</note>
+      </trans-unit>
+      <trans-unit id="KzH-M4-LDd.text">
+        <source>USD</source>
+        <target/>
+        <note>Class = "UILabel"; text = "USD"; ObjectID = "KzH-M4-LDd";</note>
+      </trans-unit>
+      <trans-unit id="L9H-oi-3J2.placeholder">
+        <source>Position Size</source>
+        <target/>
+        <note>Class = "UITextField"; placeholder = "Position Size"; ObjectID = "L9H-oi-3J2";</note>
+      </trans-unit>
+      <trans-unit id="LU4-LW-qsr.text">
+        <source>0.2</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.2"; ObjectID = "LU4-LW-qsr";</note>
+      </trans-unit>
+      <trans-unit id="MD7-lP-xGg.text">
+        <source>Leverage for Margin</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Leverage for Margin"; ObjectID = "MD7-lP-xGg";</note>
+      </trans-unit>
+      <trans-unit id="MJx-gn-4mQ.text">
+        <source>5 seconds</source>
+        <target/>
+        <note>Class = "UILabel"; text = "5 seconds"; ObjectID = "MJx-gn-4mQ";</note>
+      </trans-unit>
+      <trans-unit id="Mge-A3-JGo.text">
+        <source>Markets</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Markets"; ObjectID = "Mge-A3-JGo";</note>
+      </trans-unit>
+      <trans-unit id="Mrr-If-ZtP.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "Mrr-If-ZtP";</note>
+      </trans-unit>
+      <trans-unit id="NSt-3N-Mt1.placeholder">
+        <source>Position Size</source>
+        <target/>
+        <note>Class = "UITextField"; placeholder = "Position Size"; ObjectID = "NSt-3N-Mt1";</note>
+      </trans-unit>
+      <trans-unit id="NWq-If-Vp0.text">
+        <source>Previous</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Previous"; ObjectID = "NWq-If-Vp0";</note>
+      </trans-unit>
+      <trans-unit id="NeV-QI-zZY.title">
+        <source>Currency Pairs</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "Currency Pairs"; ObjectID = "NeV-QI-zZY";</note>
+      </trans-unit>
+      <trans-unit id="NnP-y9-sjl.text">
+        <source>Timezone</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Timezone"; ObjectID = "NnP-y9-sjl";</note>
+      </trans-unit>
+      <trans-unit id="Npv-fL-g2b.text">
+        <source>Last Updated: 12:42, 23.04.15</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Last Updated: 12:42, 23.04.15"; ObjectID = "Npv-fL-g2b";</note>
+      </trans-unit>
+      <trans-unit id="OD1-za-pLg.text">
+        <source>-.--</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-.--"; ObjectID = "OD1-za-pLg";</note>
+      </trans-unit>
+      <trans-unit id="OKs-kD-vu1.normalTitle">
+        <source>EURUSD</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "EURUSD"; ObjectID = "OKs-kD-vu1";</note>
+      </trans-unit>
+      <trans-unit id="OgW-eM-w65.text">
+        <source>Pair</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Pair"; ObjectID = "OgW-eM-w65";</note>
+      </trans-unit>
+      <trans-unit id="OjK-fO-L5h.text">
+        <source>Change</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Change"; ObjectID = "OjK-fO-L5h";</note>
+      </trans-unit>
+      <trans-unit id="P2G-sK-uFe.normalTitle">
+        <source>Create Alert</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Create Alert"; ObjectID = "P2G-sK-uFe";</note>
+      </trans-unit>
+      <trans-unit id="P87-77-sgI.title">
+        <source>Timezone</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "Timezone"; ObjectID = "P87-77-sgI";</note>
+      </trans-unit>
+      <trans-unit id="PLw-OU-MZx.text">
+        <source>Results</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Results"; ObjectID = "PLw-OU-MZx";</note>
+      </trans-unit>
+      <trans-unit id="PPg-PP-2FA.normalTitle">
+        <source>1:1</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "1:1"; ObjectID = "PPg-PP-2FA";</note>
+      </trans-unit>
+      <trans-unit id="PVA-Hr-393.normalTitle">
+        <source>Calculate</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "PVA-Hr-393";</note>
+      </trans-unit>
+      <trans-unit id="PhV-0W-WPG.title">
+        <source>Item</source>
+        <target/>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "PhV-0W-WPG";</note>
+      </trans-unit>
+      <trans-unit id="QBk-aE-tgQ.text">
+        <source>Trading CFD involves significant risk of loss.</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Trading CFD involves significant risk of loss."; ObjectID = "QBk-aE-tgQ";</note>
+      </trans-unit>
+      <trans-unit id="R0y-Rh-t8H.text">
+        <source>Position Size</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Position Size"; ObjectID = "R0y-Rh-t8H";</note>
+      </trans-unit>
+      <trans-unit id="R66-W5-hvB.text">
+        <source>Position Size</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Position Size"; ObjectID = "R66-W5-hvB";</note>
+      </trans-unit>
+      <trans-unit id="RIb-XN-Ywy.text">
+        <source>EURJPY</source>
+        <target/>
+        <note>Class = "UILabel"; text = "EURJPY"; ObjectID = "RIb-XN-Ywy";</note>
+      </trans-unit>
+      <trans-unit id="RuQ-oJ-eA9.normalTitle">
+        <source>DESCRIPTION</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "DESCRIPTION"; ObjectID = "RuQ-oJ-eA9";</note>
+      </trans-unit>
+      <trans-unit id="S6D-ob-KpU.text">
+        <source>cTrader Commission</source>
+        <target/>
+        <note>Class = "UILabel"; text = "cTrader Commission"; ObjectID = "S6D-ob-KpU";</note>
+      </trans-unit>
+      <trans-unit id="SD2-BZ-wjA.text">
+        <source>Stop Loss, pips</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Stop Loss, pips"; ObjectID = "SD2-BZ-wjA";</note>
+      </trans-unit>
+      <trans-unit id="Sd8-np-YBd.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "Sd8-np-YBd";</note>
+      </trans-unit>
+      <trans-unit id="Shj-aD-UFT.text">
+        <source>Average Spread on cTrader</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Average Spread on cTrader"; ObjectID = "Shj-aD-UFT";</note>
+      </trans-unit>
+      <trans-unit id="T4S-Ot-9gE.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "T4S-Ot-9gE";</note>
+      </trans-unit>
+      <trans-unit id="T7T-b8-mhe.text">
+        <source>Yesterday change in %</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Yesterday change in %"; ObjectID = "T7T-b8-mhe";</note>
+      </trans-unit>
+      <trans-unit id="TD9-0F-IbY.text">
+        <source>Currency</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Currency"; ObjectID = "TD9-0F-IbY";</note>
+      </trans-unit>
+      <trans-unit id="TS6-WR-n7x.title">
+        <source>Currency</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "Currency"; ObjectID = "TS6-WR-n7x";</note>
+      </trans-unit>
+      <trans-unit id="Te6-E7-dFi.text">
+        <source>15:35</source>
+        <target/>
+        <note>Class = "UILabel"; text = "15:35"; ObjectID = "Te6-E7-dFi";</note>
+      </trans-unit>
+      <trans-unit id="Tff-WR-0cM.text">
+        <source>15 EUR = 164.45 USD</source>
+        <target/>
+        <note>Class = "UILabel"; text = "15 EUR = 164.45 USD"; ObjectID = "Tff-WR-0cM";</note>
+      </trans-unit>
+      <trans-unit id="U9I-se-cHI.text">
+        <source>Minimum Price Fluctuation</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Minimum Price Fluctuation"; ObjectID = "U9I-se-cHI";</note>
+      </trans-unit>
+      <trans-unit id="UOd-uc-sLg.text">
+        <source>Trade Size</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Trade Size"; ObjectID = "UOd-uc-sLg";</note>
+      </trans-unit>
+      <trans-unit id="USK-sJ-8J4.normalTitle">
+        <source>Go to FxPro.com</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Go to FxPro.com"; ObjectID = "USK-sJ-8J4";</note>
+      </trans-unit>
+      <trans-unit id="UU9-hK-u3o.normalTitle">
+        <source>Cancel</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "UU9-hK-u3o";</note>
+      </trans-unit>
+      <trans-unit id="VV6-Fe-O0N.text">
+        <source>From</source>
+        <target/>
+        <note>Class = "UILabel"; text = "From"; ObjectID = "VV6-Fe-O0N";</note>
+      </trans-unit>
+      <trans-unit id="WRs-KJ-u2E.text">
+        <source>Importance</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Importance"; ObjectID = "WRs-KJ-u2E";</note>
+      </trans-unit>
+      <trans-unit id="WSA-AV-Aek.text">
+        <source>USD</source>
+        <target/>
+        <note>Class = "UILabel"; text = "USD"; ObjectID = "WSA-AV-Aek";</note>
+      </trans-unit>
+      <trans-unit id="Wfn-Rd-mIo.text">
+        <source>Swap Long</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Swap Long"; ObjectID = "Wfn-Rd-mIo";</note>
+      </trans-unit>
+      <trans-unit id="Wl8-B2-adb.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "Wl8-B2-adb";</note>
+      </trans-unit>
+      <trans-unit id="WpH-e1-uJ0.segmentTitles[0]">
+        <source>First</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; WpH-e1-uJ0.segmentTitles[0] = "First"; ObjectID = "WpH-e1-uJ0";</note>
+      </trans-unit>
+      <trans-unit id="WpH-e1-uJ0.segmentTitles[1]">
+        <source>Second</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; WpH-e1-uJ0.segmentTitles[1] = "Second"; ObjectID = "WpH-e1-uJ0";</note>
+      </trans-unit>
+      <trans-unit id="WwL-XA-Mwf.text">
+        <source>Swap Short</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Swap Short"; ObjectID = "WwL-XA-Mwf";</note>
+      </trans-unit>
+      <trans-unit id="Xtj-8C-Oqa.text">
+        <source>1</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1"; ObjectID = "Xtj-8C-Oqa";</note>
+      </trans-unit>
+      <trans-unit id="Xv6-pW-FKQ.normalTitle">
+        <source>EUR</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "EUR"; ObjectID = "Xv6-pW-FKQ";</note>
+      </trans-unit>
+      <trans-unit id="Y9l-26-Vcq.segmentTitles[0]">
+        <source>First</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; Y9l-26-Vcq.segmentTitles[0] = "First"; ObjectID = "Y9l-26-Vcq";</note>
+      </trans-unit>
+      <trans-unit id="Y9l-26-Vcq.segmentTitles[1]">
+        <source>Second</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; Y9l-26-Vcq.segmentTitles[1] = "Second"; ObjectID = "Y9l-26-Vcq";</note>
+      </trans-unit>
+      <trans-unit id="YHz-f9-hW2.text">
+        <source>Swap Short</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Swap Short"; ObjectID = "YHz-f9-hW2";</note>
+      </trans-unit>
+      <trans-unit id="YVd-DE-bzU.normalTitle">
+        <source>1:1</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "1:1"; ObjectID = "YVd-DE-bzU";</note>
+      </trans-unit>
+      <trans-unit id="YnT-BC-tpl.text">
+        <source>0.2</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.2"; ObjectID = "YnT-BC-tpl";</note>
+      </trans-unit>
+      <trans-unit id="YpF-IJ-S3l.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "YpF-IJ-S3l";</note>
+      </trans-unit>
+      <trans-unit id="Ys1-E5-8y9.title">
+        <source>Margin</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "Margin"; ObjectID = "Ys1-E5-8y9";</note>
+      </trans-unit>
+      <trans-unit id="Z3r-4X-VjN.normalTitle">
+        <source>EURUSD</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "EURUSD"; ObjectID = "Z3r-4X-VjN";</note>
+      </trans-unit>
+      <trans-unit id="aEy-iw-MRz.text">
+        <source>Currency</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Currency"; ObjectID = "aEy-iw-MRz";</note>
+      </trans-unit>
+      <trans-unit id="aZa-iS-9Zc.title">
+        <source>Item</source>
+        <target/>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "aZa-iS-9Zc";</note>
+      </trans-unit>
+      <trans-unit id="abq-W7-O6Y.text">
+        <source>Daily High</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Daily High"; ObjectID = "abq-W7-O6Y";</note>
+      </trans-unit>
+      <trans-unit id="b6V-U6-VBv.text">
+        <source>Currencies</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Currencies"; ObjectID = "b6V-U6-VBv";</note>
+      </trans-unit>
+      <trans-unit id="b8z-Ea-Tzz.text">
+        <source>Actual:</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Actual:"; ObjectID = "b8z-Ea-Tzz";</note>
+      </trans-unit>
+      <trans-unit id="bWc-K3-ViL.normalTitle">
+        <source>EUR</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "EUR"; ObjectID = "bWc-K3-ViL";</note>
+      </trans-unit>
+      <trans-unit id="bzd-lN-8fK.text">
+        <source>Swap Long</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Swap Long"; ObjectID = "bzd-lN-8fK";</note>
+      </trans-unit>
+      <trans-unit id="c9d-oP-IKY.text">
+        <source>15 EUR = 164.45 USD</source>
+        <target/>
+        <note>Class = "UILabel"; text = "15 EUR = 164.45 USD"; ObjectID = "c9d-oP-IKY";</note>
+      </trans-unit>
+      <trans-unit id="cHw-3O-zxT.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "cHw-3O-zxT";</note>
+      </trans-unit>
+      <trans-unit id="cL5-vP-8be.text">
+        <source>Details</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Details"; ObjectID = "cL5-vP-8be";</note>
+      </trans-unit>
+      <trans-unit id="cgi-Vy-la9.normalTitle">
+        <source>USD</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "USD"; ObjectID = "cgi-Vy-la9";</note>
+      </trans-unit>
+      <trans-unit id="ckA-th-pwx.normalTitle">
+        <source>Buy / Cover</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Buy / Cover"; ObjectID = "ckA-th-pwx";</note>
+      </trans-unit>
+      <trans-unit id="cud-nX-T37.title">
+        <source>SL Ratio to Tip</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "SL Ratio to Tip"; ObjectID = "cud-nX-T37";</note>
+      </trans-unit>
+      <trans-unit id="d9m-h2-wvB.text">
+        <source>Amount to Risk</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Amount to Risk"; ObjectID = "d9m-h2-wvB";</note>
+      </trans-unit>
+      <trans-unit id="dBn-ga-ap9.text">
+        <source>1:1</source>
+        <target/>
+        <note>Class = "UILabel"; text = "1:1"; ObjectID = "dBn-ga-ap9";</note>
+      </trans-unit>
+      <trans-unit id="dBq-Mj-Irr.title">
+        <source>Settings</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "Settings"; ObjectID = "dBq-Mj-Irr";</note>
+      </trans-unit>
+      <trans-unit id="dMl-GE-6uw.text">
+        <source>Pair</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Pair"; ObjectID = "dMl-GE-6uw";</note>
+      </trans-unit>
+      <trans-unit id="dSX-bc-aEj.text">
+        <source>Misc</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Misc"; ObjectID = "dSX-bc-aEj";</note>
+      </trans-unit>
+      <trans-unit id="ek0-9I-kEQ.title">
+        <source>Refresh Rate</source>
+        <target/>
+        <note>Class = "UINavigationItem"; title = "Refresh Rate"; ObjectID = "ek0-9I-kEQ";</note>
+      </trans-unit>
+      <trans-unit id="ek5-WN-hjz.text">
+        <source>Amount</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Amount"; ObjectID = "ek5-WN-hjz";</note>
+      </trans-unit>
+      <trans-unit id="exC-pm-3zk.text">
+        <source>Daily Low</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Daily Low"; ObjectID = "exC-pm-3zk";</note>
+      </trans-unit>
+      <trans-unit id="fFH-Kg-lum.text">
+        <source>Yesterday low</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Yesterday low"; ObjectID = "fFH-Kg-lum";</note>
+      </trans-unit>
+      <trans-unit id="ffh-AY-EIb.text">
+        <source>0.09% (+0.01%)</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.09% (+0.01%)"; ObjectID = "ffh-AY-EIb";</note>
+      </trans-unit>
+      <trans-unit id="gXo-zd-O9D.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "gXo-zd-O9D";</note>
+      </trans-unit>
+      <trans-unit id="gzl-YL-1Fq.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "gzl-YL-1Fq";</note>
+      </trans-unit>
+      <trans-unit id="hVH-HX-SA8.title">
+        <source>Item</source>
+        <target/>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "hVH-HX-SA8";</note>
+      </trans-unit>
+      <trans-unit id="hdf-Rr-H5I.text">
+        <source>Change in pips</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Change in pips"; ObjectID = "hdf-Rr-H5I";</note>
+      </trans-unit>
+      <trans-unit id="i64-Dp-XSA.text">
+        <source>Results</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Results"; ObjectID = "i64-Dp-XSA";</note>
+      </trans-unit>
+      <trans-unit id="iTb-ia-c0d.text">
+        <source>Pip Value</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Pip Value"; ObjectID = "iTb-ia-c0d";</note>
+      </trans-unit>
+      <trans-unit id="iap-EX-T4Z.text">
+        <source>0.2</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.2"; ObjectID = "iap-EX-T4Z";</note>
+      </trans-unit>
+      <trans-unit id="j0T-Kz-nJp.text">
+        <source>Sort By</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Sort By"; ObjectID = "j0T-Kz-nJp";</note>
+      </trans-unit>
+      <trans-unit id="jt8-4F-LVd.text">
+        <source>Take Profit</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Take Profit"; ObjectID = "jt8-4F-LVd";</note>
+      </trans-unit>
+      <trans-unit id="k4T-PC-7q9.text">
+        <source>0.00543</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.00543"; ObjectID = "k4T-PC-7q9";</note>
+      </trans-unit>
+      <trans-unit id="kHW-vz-1Tg.normalTitle">
+        <source>EUR</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "EUR"; ObjectID = "kHW-vz-1Tg";</note>
+      </trans-unit>
+      <trans-unit id="khB-Ok-MSy.text">
+        <source>-.--</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-.--"; ObjectID = "khB-Ok-MSy";</note>
+      </trans-unit>
+      <trans-unit id="ksF-OT-iOa.text">
+        <source>Version</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Version"; ObjectID = "ksF-OT-iOa";</note>
+      </trans-unit>
+      <trans-unit id="lI6-jW-3i5.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "lI6-jW-3i5";</note>
+      </trans-unit>
+      <trans-unit id="lPX-vC-S7p.text">
+        <source>0.00534</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.00534"; ObjectID = "lPX-vC-S7p";</note>
+      </trans-unit>
+      <trans-unit id="lck-Vo-o3J.text">
+        <source>Information</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Information"; ObjectID = "lck-Vo-o3J";</note>
+      </trans-unit>
+      <trans-unit id="lfs-M8-doq.normalTitle">
+        <source>Timezone</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Timezone"; ObjectID = "lfs-M8-doq";</note>
+      </trans-unit>
+      <trans-unit id="mA4-26-GGd.text">
+        <source>English</source>
+        <target/>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "mA4-26-GGd";</note>
+      </trans-unit>
+      <trans-unit id="n6u-uF-5jk.text">
+        <source>EURUSD</source>
+        <target/>
+        <note>Class = "UILabel"; text = "EURUSD"; ObjectID = "n6u-uF-5jk";</note>
+      </trans-unit>
+      <trans-unit id="oOv-1y-gNz.text">
+        <source>Today low</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Today low"; ObjectID = "oOv-1y-gNz";</note>
+      </trans-unit>
+      <trans-unit id="oSc-as-DRf.text">
+        <source>Change in %</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Change in %"; ObjectID = "oSc-as-DRf";</note>
+      </trans-unit>
+      <trans-unit id="oWu-kd-kfu.text">
+        <source>GMT</source>
+        <target/>
+        <note>Class = "UILabel"; text = "GMT"; ObjectID = "oWu-kd-kfu";</note>
+      </trans-unit>
+      <trans-unit id="oaY-FM-6U6.text">
+        <source>Yesterday change in pips</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Yesterday change in pips"; ObjectID = "oaY-FM-6U6";</note>
+      </trans-unit>
+      <trans-unit id="p7Z-9H-5b3.text">
+        <source>EUR</source>
+        <target/>
+        <note>Class = "UILabel"; text = "EUR"; ObjectID = "p7Z-9H-5b3";</note>
+      </trans-unit>
+      <trans-unit id="p9S-jr-Ih2.normalTitle">
+        <source>EURUSD</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "EURUSD"; ObjectID = "p9S-jr-Ih2";</note>
+      </trans-unit>
+      <trans-unit id="pRE-Hm-9As.text">
+        <source>Change</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Change"; ObjectID = "pRE-Hm-9As";</note>
+      </trans-unit>
+      <trans-unit id="pa8-qx-caY.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "pa8-qx-caY";</note>
+      </trans-unit>
+      <trans-unit id="pfC-Xh-idJ.normalTitle">
+        <source>Login to FxPro Direct</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Login to FxPro Direct"; ObjectID = "pfC-Xh-idJ";</note>
+      </trans-unit>
+      <trans-unit id="pi5-vE-GYT.text">
+        <source>Yesterday high</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Yesterday high"; ObjectID = "pi5-vE-GYT";</note>
+      </trans-unit>
+      <trans-unit id="pnF-9g-2gB.text">
+        <source>Retail traders</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Retail traders"; ObjectID = "pnF-9g-2gB";</note>
+      </trans-unit>
+      <trans-unit id="qZT-zf-KiW.text">
+        <source>134.812</source>
+        <target/>
+        <note>Class = "UITextField"; text = "134.812"; ObjectID = "qZT-zf-KiW";</note>
+      </trans-unit>
+      <trans-unit id="qtS-j9-ASS.normalTitle">
+        <source>Language</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Language"; ObjectID = "qtS-j9-ASS";</note>
+      </trans-unit>
+      <trans-unit id="rZr-Y5-ZeB.text">
+        <source>-.--</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-.--"; ObjectID = "rZr-Y5-ZeB";</note>
+      </trans-unit>
+      <trans-unit id="rnN-VB-0dA.segmentTitles[0]">
+        <source>First</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; rnN-VB-0dA.segmentTitles[0] = "First"; ObjectID = "rnN-VB-0dA";</note>
+      </trans-unit>
+      <trans-unit id="rnN-VB-0dA.segmentTitles[1]">
+        <source>Second</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; rnN-VB-0dA.segmentTitles[1] = "Second"; ObjectID = "rnN-VB-0dA";</note>
+      </trans-unit>
+      <trans-unit id="sAb-nM-6bt.text">
+        <source>Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</source>
+        <target/>
+        <note>Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "sAb-nM-6bt";</note>
+      </trans-unit>
+      <trans-unit id="sEk-4T-DkH.placeholder">
+        <source>Amount</source>
+        <target/>
+        <note>Class = "UITextField"; placeholder = "Amount"; ObjectID = "sEk-4T-DkH";</note>
+      </trans-unit>
+      <trans-unit id="sox-sJ-vat.normalTitle">
+        <source>Open Trading Account with FxPro</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "Open Trading Account with FxPro"; ObjectID = "sox-sJ-vat";</note>
+      </trans-unit>
+      <trans-unit id="srj-r0-nq1.text">
+        <source>Results</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Results"; ObjectID = "srj-r0-nq1";</note>
+      </trans-unit>
+      <trans-unit id="t1e-YH-LUG.text">
+        <source>Call Level</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Call Level"; ObjectID = "t1e-YH-LUG";</note>
+      </trans-unit>
+      <trans-unit id="t8y-fw-tGc.text">
+        <source>Actual:</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Actual:"; ObjectID = "t8y-fw-tGc";</note>
+      </trans-unit>
+      <trans-unit id="tCZ-nv-R2O.text">
+        <source>EURUSD</source>
+        <target/>
+        <note>Class = "UILabel"; text = "EURUSD"; ObjectID = "tCZ-nv-R2O";</note>
+      </trans-unit>
+      <trans-unit id="tOM-Wj-rgA.text">
+        <source>Label</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "tOM-Wj-rgA";</note>
+      </trans-unit>
+      <trans-unit id="tkQ-K4-gUw.text">
+        <source>0.0532</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.0532"; ObjectID = "tkQ-K4-gUw";</note>
+      </trans-unit>
+      <trans-unit id="tue-oZ-qcK.text">
+        <source>English</source>
+        <target/>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "tue-oZ-qcK";</note>
+      </trans-unit>
+      <trans-unit id="u3V-5l-Ao7.text">
+        <source>Last Price</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Last Price"; ObjectID = "u3V-5l-Ao7";</note>
+      </trans-unit>
+      <trans-unit id="u4X-vO-SSQ.text">
+        <source>Required Margin</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Required Margin"; ObjectID = "u4X-vO-SSQ";</note>
+      </trans-unit>
+      <trans-unit id="utE-2J-Shj.segmentTitles[0]">
+        <source>First</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; utE-2J-Shj.segmentTitles[0] = "First"; ObjectID = "utE-2J-Shj";</note>
+      </trans-unit>
+      <trans-unit id="utE-2J-Shj.segmentTitles[1]">
+        <source>Second</source>
+        <target/>
+        <note>Class = "UISegmentedControl"; utE-2J-Shj.segmentTitles[1] = "Second"; ObjectID = "utE-2J-Shj";</note>
+      </trans-unit>
+      <trans-unit id="vBe-k0-8Gq.text">
+        <source>-.--</source>
+        <target/>
+        <note>Class = "UILabel"; text = "-.--"; ObjectID = "vBe-k0-8Gq";</note>
+      </trans-unit>
+      <trans-unit id="vHJ-LE-rjw.text">
+        <source>Forecast:</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Forecast:"; ObjectID = "vHJ-LE-rjw";</note>
+      </trans-unit>
+      <trans-unit id="vPi-3r-skC.text">
+        <source>Account</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Account"; ObjectID = "vPi-3r-skC";</note>
+      </trans-unit>
+      <trans-unit id="vn6-A1-CaV.text">
+        <source>0.10% (+0.06%)</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.10% (+0.06%)"; ObjectID = "vn6-A1-CaV";</note>
+      </trans-unit>
+      <trans-unit id="vvU-ii-chx.title">
+        <source>Item</source>
+        <target/>
+        <note>Class = "UITabBarItem"; title = "Item"; ObjectID = "vvU-ii-chx";</note>
+      </trans-unit>
+      <trans-unit id="wV9-W0-mGy.text">
+        <source>Details</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Details"; ObjectID = "wV9-W0-mGy";</note>
+      </trans-unit>
+      <trans-unit id="wrG-6A-Lmu.text">
+        <source>Our retail traders enjoy unparalleled levels of service in terms of liquidity, execution and trading conditions. Add to this as our industry-leading tools and platforms, as well as our FX Agency Model execution, and you have one of the strongest retail offerings on the market.</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Our retail traders enjoy unparalleled levels of service in terms of liquidity, execution and trading conditions. Add to this as our industry-leading tools and platforms, as well as our FX Agency Model execution, and you have one of the strongest retail offerings on the market."; ObjectID = "wrG-6A-Lmu";</note>
+      </trans-unit>
+      <trans-unit id="x7Y-fh-0qw.text">
+        <source>0.0532</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.0532"; ObjectID = "x7Y-fh-0qw";</note>
+      </trans-unit>
+      <trans-unit id="xg5-iD-yZl.text">
+        <source>00:45</source>
+        <target/>
+        <note>Class = "UILabel"; text = "00:45"; ObjectID = "xg5-iD-yZl";</note>
+      </trans-unit>
+      <trans-unit id="yI4-qy-cUJ.text">
+        <source>Links</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Links"; ObjectID = "yI4-qy-cUJ";</note>
+      </trans-unit>
+      <trans-unit id="yYW-Bh-PaG.text">
+        <source>0.02659356</source>
+        <target/>
+        <note>Class = "UILabel"; text = "0.02659356"; ObjectID = "yYW-Bh-PaG";</note>
+      </trans-unit>
+      <trans-unit id="yke-wq-Jp2.text">
+        <source>Margin</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Margin"; ObjectID = "yke-wq-Jp2";</note>
+      </trans-unit>
+      <trans-unit id="z9s-0h-CMt.normalTitle">
+        <source>About FxPro</source>
+        <target/>
+        <note>Class = "UIButton"; normalTitle = "About FxPro"; ObjectID = "z9s-0h-CMt";</note>
+      </trans-unit>
+      <trans-unit id="zUY-Tr-Wcm.text">
+        <source>Average Spread on MT4</source>
+        <target/>
+        <note>Class = "UILabel"; text = "Average Spread on MT4"; ObjectID = "zUY-Tr-Wcm";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="fxpro/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>FxPro Tools</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.1.8</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="fxpro/Localizable.strings" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="ABOUT_FXPRO">
+        <source>ABOUT_FXPRO</source>
+        <target>Информация о FxPro</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ACCOUNT">
+        <source>ACCOUNT</source>
+        <target>Счет</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ACTUAL">
+        <source>ACTUAL</source>
+        <target>Факт.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ADD_LABEL">
+        <source>ADD_LABEL</source>
+        <note>ADD_LABEL</note>
+      </trans-unit>
+      <trans-unit id="ALERT_BUTTON_OK">
+        <source>ALERT_BUTTON_OK</source>
+        <target>OK</target>
+        <note>ALERT_BUTTON_OK</note>
+      </trans-unit>
+      <trans-unit id="ALL_IN_ONE">
+        <source>ALL_IN_ONE</source>
+        <target>Все в одном</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AMOUNT">
+        <source>AMOUNT</source>
+        <target>Величина</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AMOUNT_TO_RISK">
+        <source>AMOUNT_TO_RISK</source>
+        <target>Сумма к риску</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="ANALYSIS_AND_INSIGHT">
+        <source>ANALYSIS_AND_INSIGHT</source>
+        <target>Анализ</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AVERAGE_SPREAD_ON_CTTRADER">
+        <source>AVERAGE_SPREAD_ON_CTTRADER</source>
+        <target>Средний спред в cTrader</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="AVERAGE_SPREAD_ON_MT4">
+        <source>AVERAGE_SPREAD_ON_MT4</source>
+        <target>Средний спред в MT4</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BLOGS">
+        <source>BLOGS</source>
+        <target>Блоги</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BUY_/_COVER">
+        <source>BUY_/_COVER</source>
+        <target>Купить</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CALCULATE">
+        <source>CALCULATE</source>
+        <target>Рассчитать</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CALCULATORS">
+        <source>CALCULATORS</source>
+        <target>Калькуляторы</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CALENDARS">
+        <source>CALENDARS</source>
+        <target>Календарь</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CALL_LEVEL">
+        <source>CALL_LEVEL</source>
+        <target>Нужный уровень:</target>
+        <note>Call Level</note>
+      </trans-unit>
+      <trans-unit id="CANCEL">
+        <source>CANCEL</source>
+        <target>Отменить</target>
+        <note>Cancel alert</note>
+      </trans-unit>
+      <trans-unit id="CHANGE">
+        <source>CHANGE</source>
+        <target>Изменение</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CHANGE_IN_PERCENTS">
+        <source>CHANGE_IN_PERCENTS</source>
+        <target>Изменения, %</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CHANGE_IN_PIPS">
+        <source>CHANGE_IN_PIPS</source>
+        <target>Изменение, пункты</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CHART">
+        <source>CHART</source>
+        <target>График</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CHECK_PUSH_MESSAGE">
+        <source>CHECK_PUSH_MESSAGE</source>
+        <target>Пожалуйста проверьте, разрешены ли уведомления для FxPro Tools в Настройки -&gt; Уведомления-&gt; FxPro Tools</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CHECK_PUSH_TITLE">
+        <source>CHECK_PUSH_TITLE</source>
+        <target>Уведомления отключены</target>
+        <note>CHECK_PUSH_TITLE</note>
+      </trans-unit>
+      <trans-unit id="CONVERSION">
+        <source>CONVERSION</source>
+        <target>Конвертирование</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="COUNTRY">
+        <source>COUNTRY</source>
+        <target>Страна</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CREATE_ALERT">
+        <source>CREATE_ALERT</source>
+        <target>Создать оповещение</target>
+        <note>Create alert</note>
+      </trans-unit>
+      <trans-unit id="CTTRADER_COMMISSION">
+        <source>CTTRADER_COMMISSION</source>
+        <target>Комиссиия на cTrader</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CURRENCIES">
+        <source>CURRENCIES</source>
+        <target>Валюта</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CURRENCY">
+        <source>CURRENCY</source>
+        <target>Валюта</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CURRENCY_CONVERTER">
+        <source>CURRENCY_CONVERTER</source>
+        <target>Конвертер валют</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CURRENCY_PAIR">
+        <source>CURRENCY_PAIR</source>
+        <target>Валютная пара</target>
+        <note>CURRENCY_PAIR</note>
+      </trans-unit>
+      <trans-unit id="CURRENCY_PAIRS">
+        <source>CURRENCY_PAIRS</source>
+        <target>Валютные пары</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="CURRENT_PRICE">
+        <source>CURRENT_PRICE</source>
+        <target>Текущая цена</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="D">
+        <source>D</source>
+        <target>д</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DAILY_HIGH">
+        <source>DAILY_HIGH</source>
+        <target>Макс.</target>
+        <note>DAILY_HIGH</note>
+      </trans-unit>
+      <trans-unit id="DAILY_LOW">
+        <source>DAILY_LOW</source>
+        <target>Мин.</target>
+        <note>DAILY_LOW</note>
+      </trans-unit>
+      <trans-unit id="DAILY_OUTLOOK">
+        <source>DAILY_OUTLOOK</source>
+        <target>Дневной обзор</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DATE">
+        <source>DATE</source>
+        <target>Дата</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DESCRIPTION">
+        <source>DESCRIPTION</source>
+        <target>Описание</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DETAILS">
+        <source>DETAILS</source>
+        <target>Детали</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FEEDBACK">
+        <source>FEEDBACK</source>
+        <target>Отзыв</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FEEDBACK_MESSAGE">
+        <source>FEEDBACK_MESSAGE</source>
+        <target>Пожалуйста оцените приложение. Ваш отзыв поможет сделать его лучше!</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FILTER">
+        <source>FILTER</source>
+        <target>Фильтры</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FORECAST">
+        <source>FORECAST</source>
+        <target>Прогноз</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FROM">
+        <source>FROM</source>
+        <target>От</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FXPRO_UPDATES">
+        <source>FXPRO_UPDATES</source>
+        <target>Новое в FxPro</target>
+        <note>Blogs - FxPro Updates title</note>
+      </trans-unit>
+      <trans-unit id="GO_TO_FXPRO">
+        <source>GO_TO_FXPRO</source>
+        <target>Перейти на FxPro.com</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="H">
+        <source>H</source>
+        <target>ч</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="IMPORTANCE">
+        <source>IMPORTANCE</source>
+        <target>Важность</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="INFORMATION">
+        <source>INFORMATION</source>
+        <target>Информация</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LANGUAGE">
+        <source>LANGUAGE</source>
+        <target>Язык</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LANGUAGE_CHANGE_MESSAGE">
+        <source>LANGUAGE_CHANGE_MESSAGE</source>
+        <target>Для смена языка, пожалуйста, два раза нажмите на круглую кнопку внизу телефона и закройте наше приложение движением вверх. После чего заново запустите.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LAST_PRICE">
+        <source>LAST_PRICE</source>
+        <target>Цена</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LAST_UPDATED">
+        <source>LAST_UPDATED</source>
+        <target>Обновлено</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LEGAL_DOCUMENTATION">
+        <source>LEGAL_DOCUMENTATION</source>
+        <target>Правовые документы</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LEVERAGE_FOR_MARGIN">
+        <source>LEVERAGE_FOR_MARGIN</source>
+        <target>Кредитное плечо</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LINKS">
+        <source>LINKS</source>
+        <target>Ссылки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="LOGIN_TO_FXPRO_DIRECT">
+        <source>LOGIN_TO_FXPRO_DIRECT</source>
+        <target>Войти в FxPro Direct</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="M">
+        <source>M</source>
+        <target>м</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MAIN">
+        <source>MAIN</source>
+        <target>Основные</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MARGIN">
+        <source>MARGIN</source>
+        <target>Калькулятор маржи</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MARKETS">
+        <source>MARKETS</source>
+        <target>Рынки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MARKET_SNAPSHOTS">
+        <source>MARKET_SNAPSHOTS</source>
+        <target>Новости</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MAYBE_LATER">
+        <source>MAYBE_LATER</source>
+        <target>Позже</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MENU">
+        <source>MENU</source>
+        <target>Меню</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MENU_MESSAGE">
+        <source>MENU_MESSAGE</source>
+        <target>Торговля CFD несет в себе высокие риски.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MINIMUM_PRICE_FLUCTUATION">
+        <source>MINIMUM_PRICE_FLUCTUATION</source>
+        <target>Минимальные колебания цены</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MISC">
+        <source>MISC</source>
+        <target>Разное</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NEWS">
+        <source>NEWS</source>
+        <target>Новости</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="NEW_MARKETS_ALERT_TITLE">
+        <source>NEW_MARKETS_ALERT_TITLE</source>
+        <target>Новое оповещение</target>
+        <note>New Markets Alert</note>
+      </trans-unit>
+      <trans-unit id="OPEN_PRICE">
+        <source>OPEN_PRICE</source>
+        <target>Цена открытия</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OPEN_TRADING_ACCOUNT_WITH_FXPRO">
+        <source>OPEN_TRADING_ACCOUNT_WITH_FXPRO</source>
+        <target>Открыть торговый счет</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OTHER">
+        <source>OTHER</source>
+        <target>Другие</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PAIR">
+        <source>PAIR</source>
+        <target>Пара</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PIP_VALUE">
+        <source>PIP_VALUE</source>
+        <target>Стоимость пункта</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PORTFOLIO">
+        <source>PORTFOLIO</source>
+        <target>Портфолио</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="POSITION_SIZE">
+        <source>POSITION_SIZE</source>
+        <target>Размер позиции</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="PREVIOUS">
+        <source>PREVIOUS</source>
+        <target>Пред.</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Portfolio">
+        <source>Portfolio</source>
+        <note>Portfolio</note>
+      </trans-unit>
+      <trans-unit id="Press release published">
+        <source>Press release published</source>
+        <target>Press release published</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RATE_US">
+        <source>RATE_US</source>
+        <target>Оценить приложение</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="REFRESH_RATE">
+        <source>REFRESH_RATE</source>
+        <target>Частота обновления</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="REQUIRED_MARGIN">
+        <source>REQUIRED_MARGIN</source>
+        <target>Требуемая маржа</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="RESULTS">
+        <source>RESULTS</source>
+        <target>Результаты</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SELL_/_SHORT">
+        <source>SELL_/_SHORT</source>
+        <target>Продать</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SETTINGS">
+        <source>SETTINGS</source>
+        <target>Настройки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SL_RATIO_TO_TIP">
+        <source>SL_RATIO_TO_TIP</source>
+        <target>Соотношение SL к TP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SORT_BY">
+        <source>SORT_BY</source>
+        <target>Сортировка</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="START_SCREEN_MESSAGE">
+        <source>START_SCREEN_MESSAGE</source>
+        <target>Торговля CFD несет в себе высокие риски</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="STOP_LOSS">
+        <source>STOP_LOSS</source>
+        <target>Стоп-лосс</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="STOP_LOSS_PIPS">
+        <source>STOP_LOSS_PIPS</source>
+        <target>Стоп-лосс, пункты</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="STOP_LOSS_TAKE_PROFIT">
+        <source>STOP_LOSS_TAKE_PROFIT</source>
+        <target>Стоп-лосс / Тейк профит</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SURE">
+        <source>SURE</source>
+        <target>Нет</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SWAP_LONG">
+        <source>SWAP_LONG</source>
+        <target>Своп при покупке</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="SWAP_SHORT">
+        <source>SWAP_SHORT</source>
+        <target>Своп при продаже</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TAKE_PROFIT">
+        <source>TAKE_PROFIT</source>
+        <target>Тейк-профит</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TAKE_PROFIT_PIPS">
+        <source>TAKE_PROFIT_PIPS</source>
+        <target>Тейк-профит, пункты</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TIMEZONE">
+        <source>TIMEZONE</source>
+        <target>Часовой пояс</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TIME_FORMAT">
+        <source>TIME_FORMAT</source>
+        <target>Формат времени</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TO">
+        <source>TO</source>
+        <target>До</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TODAY">
+        <source>TODAY</source>
+        <target>Сегодня</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TODAY_HIGH">
+        <source>TODAY_HIGH</source>
+        <target>Макс. сегодня</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TODAY_LOW">
+        <source>TODAY_LOW</source>
+        <target>Мин. сегодня</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TOMORROW">
+        <source>TOMORROW</source>
+        <target>Завтра</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TRADE_SIZE">
+        <source>TRADE_SIZE</source>
+        <target>Размер сделки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="TYPE_OF_TRANSACTION">
+        <source>TYPE_OF_TRANSACTION</source>
+        <target>Тип сделки</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="VERSION">
+        <source>VERSION</source>
+        <target>Версия</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="View">
+        <source>View</source>
+        <target>View</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="WEEK">
+        <source>WEEK</source>
+        <target>Неделя</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="YESTERDAY">
+        <source>YESTERDAY</source>
+        <target>Вчера</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="YESTERDAY_CHANGE_IN_PERCENT">
+        <source>YESTERDAY_CHANGE_IN_PERCENT</source>
+        <target>Вчера, %</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="YESTERDAY_CHANGE_IN_PIPS">
+        <source>YESTERDAY_CHANGE_IN_PIPS</source>
+        <target>Вчерашнее изменение, пункты</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="YESTERDAY_HIGH">
+        <source>YESTERDAY_HIGH</source>
+        <target>Макс. вчера</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="YESTERDAY_LOW">
+        <source>YESTERDAY_LOW</source>
+        <target>Мин. вчера</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="fxproTests/Info.plist" source-language="en" datatype="plaintext" target-language="ru">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>FxPro Tools</source>
+        <target/>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>2.1.8</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

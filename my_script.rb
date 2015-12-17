@@ -10,10 +10,14 @@ class Translator
   def run
     puts self.inspect
   end
+
+  def get_trans_files
+    Dir["/path/to/search/**/*.rb"]
+  end
 end
 
 
 if __FILE__ == $PROGRAM_NAME
-  translator = Translator.new("dir_path", "langs_file")
+  translator = Translator.new(Dir.pwd, "translation.txt")
   translator.run
 end
