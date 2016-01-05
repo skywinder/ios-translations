@@ -33,7 +33,8 @@ class Translator
 
   def parse_translation
     line_num = 0
-    File.open(@translation).each do |line|
+    string = "#{@dir}/#{@translation}"
+    File.open(string).each do |line|
       line = line.delete("\n")
       line_split = line.split(",")
       if line_num == 0
@@ -69,6 +70,6 @@ end
 
 
 if __FILE__ == $PROGRAM_NAME
-  translator = Translator.new(Dir.pwd, "translation.txt")
+  translator = Translator.new("/Users/petrkorolev/Desktop/FxProTools", "FxProTools.csv")
   translator.run
 end
